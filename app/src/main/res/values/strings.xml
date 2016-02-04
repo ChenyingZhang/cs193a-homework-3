@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mad Libs</string>
+    <string-array name="files">
+        <item>madlib0_simple</item>
+        <item>madlib1_tarzan</item>
+        <item>madlib2_university</item>
+        <item>madlib3_clothes</item>
+        <item>madlib4_dance</item>
+    </string-array>
+</resources>
